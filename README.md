@@ -72,13 +72,13 @@ To get started with the course, follow these steps:
 Throughout the course, you will gain a deep understanding of the essential data processing techniques and tools, such as NumPy and Pandas, which are widely used in the Machine Learning community. By working on real-world case studies and projects, you will develop the skills and confidence to tackle data processing challenges encountered in Machine Learning projects.
 
 # 📚 Learn with Us!
-We also offer a [course on these contents](https://www.pytopia.ai/courses/data-processing) where learners can interact with peers and instructors, ask questions, and participate in online coding sessions. By registering for the course, you also gain access to our dedicated Telegram group. Enroll now and start learning! Here are some useful links:
+We also offer a [course on these contents](https://www.pytopia.ai/courses/data-processing-for-ml) where learners can interact with peers and instructors, ask questions, and participate in online coding sessions. By registering for the course, you also gain access to our dedicated Telegram group. Enroll now and start learning! Here are some useful links:
 
-- [Machine Learning Course](https://www.pytopia.ai/courses/data-processing)
+- [Data Processing for ML Course](https://www.pytopia.ai/courses/data-processing-for-ml)
 - [Pytopia Public Telegram Group](https://t.me/pytopia_ai)
 - [Pytopia Website](https://www.pytopia.ai/)
 
-[<img src="./images/pytopia-course.png" width="800">](https://www.pytopia.ai/courses/data-processing)
+[<img src="./images/pytopia-course.png" width="800">](https://www.pytopia.ai/courses/data-processing-for-ml)
 
 # 🚀 Getting Started
 
