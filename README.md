@@ -57,7 +57,7 @@ To get started with the course, follow these steps:
 
 1. Clone this repository to your local machine using the following command:
    ```
-   git clone https://github.com/pytopia/data-processing.git
+   git clone https://github.com/pytopia/data-processing-for-ml.git
    ```
 
 2. Navigate to the cloned repository:
@@ -86,12 +86,12 @@ To get started with the course, follow these steps:
 
 1. Clone this repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/data-processing-for-ml-course.git
+   git clone https://github.com/your-username/data-processing-for-ml.git
    ```
 
 2. Navigate to the cloned repository:
    ```
-   cd data-processing-for-ml-course
+   cd data-processing-for-ml
    ```
 
 3. Set up the required dependencies and environment by following the instructions in the `setup.md` file.
