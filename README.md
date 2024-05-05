@@ -31,15 +31,15 @@ By the end of this course, you will:
 The course is divided into the following chapters:
 
 1. Introduction to Data Processing
+2. Setting Up the Development Environment
 2. NumPy Fundamentals
 3. Pandas Fundamentals
 4. Data Cleaning and Preprocessing
 5. Data Transformation and Manipulation
 6. Advanced NumPy and Pandas Techniques
 7. Data Exploration and Analysis
-8. Real-world Applications and Case Studies
-9. Preparing Data for Machine Learning
-10. Course Projects
+8. Preparing Data for Machine Learning
+9. Course Projects
 
 Each chapter includes a combination of theoretical explanations, practical examples, and hands-on exercises to reinforce your understanding of the concepts and their applications in real-world scenarios. The course emphasizes practical learning through real-world case studies and hands-on projects, allowing you to apply your data processing skills to solve authentic problems encountered in Machine Learning workflows.
 
